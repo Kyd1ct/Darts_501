@@ -1,6 +1,6 @@
 **Darts_501**
 
-Darts 501 game with basic AI for Software Development module
+Darts 501 game with basic AI for CMP102 Software Design
 
 The game is a simulation of two simple AI players - Sid and Joe. Each player also has a different success bullseye success rate - 71% and 73% respectfully. 
 The game contains multiple functions to simulate the throws - bullseye attempt, single, double and treble. A random number between 0 and 100 is generated and the achieved score is based on the generated number. </br>
