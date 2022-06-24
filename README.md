@@ -1,4 +1,4 @@
-**Darts_501**
+# Darts_501
 
 Darts 501 game with basic AI for CMP102 Software Design
 
